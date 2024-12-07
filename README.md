@@ -5,3 +5,4 @@
 3 - [Construindo uma Pokédex com JavaScript](./pokemon/)<br>
 4 - [Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS](./yugioh/)<br>
 5 - [Construindo um Simulador de Piano com JavaScript e CSS](./piano/)<br>
+6 - [Construindo uma Landing Page no Mundo Invertido com HTML e CSS](./mundoInvertido/)<br>
